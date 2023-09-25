@@ -18,3 +18,7 @@ dist
 
 # Optional npm cache directory
 .npm
+
+/images/icon.ai
+
+_design
